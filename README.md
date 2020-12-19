@@ -1,4 +1,6 @@
 # ERC-project
+The growth_model.py file represents a growth model of the Psedomonas...
+The program calculates the growth curves of the bacterial model based on the input values (e.g. time of the induction, substrate concetration).
 
 The bacterial growth curve is calculated by the modified Gompertz equation ([Zwietering et al., 1990](https://pubmed.ncbi.nlm.nih.gov/16348228/)):
 
@@ -10,7 +12,7 @@ where
 <br/><a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\lambda" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\lambda" title="\lambda" /></a> = lag time,
 <br/>A = the maximal value reached.
 
-The substrate concentration in time was calculated by the equation:
+The substrate concentration in time is calculated by the equation:
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{\mathrm{d}&space;S}{\mathrm{d}&space;t}&space;=&space;\frac{1}{Y}&space;\frac{\mathrm{d}&space;X}{\mathrm{d}&space;t}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{\mathrm{d}&space;S}{\mathrm{d}&space;t}&space;=&space;\frac{1}{Y}&space;\frac{\mathrm{d}&space;X}{\mathrm{d}&space;t}" title="\frac{\mathrm{d} S}{\mathrm{d} t} = \frac{1}{Y} \frac{\mathrm{d} X}{\mathrm{d} t}" /></a>
 
