@@ -10,14 +10,14 @@ where
 <br/>e=exp(1),
 <br/><a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\mu&space;_{m}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\mu&space;_{m}" title="\mu _{m}" /></a> = the maximum specific growth rate,
 <br/><a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\lambda" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\lambda" title="\lambda" /></a> = lag time,
-<br/>A = the maximal value reached.
+<br/>A = the maximal cell density (OD600) reached.
 
 The substrate concentration in time is calculated using the equation:
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{\mathrm{d}&space;S}{\mathrm{d}&space;t}&space;=&space;\frac{1}{Y}&space;\frac{\mathrm{d}&space;X}{\mathrm{d}&space;t}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{\mathrm{d}&space;S}{\mathrm{d}&space;t}&space;=&space;\frac{1}{Y}&space;\frac{\mathrm{d}&space;X}{\mathrm{d}&space;t}" title="\frac{\mathrm{d} S}{\mathrm{d} t} = \frac{1}{Y} \frac{\mathrm{d} X}{\mathrm{d} t}" /></a>
 
 where 
-<br/>S = substrate concentartion, <br/>X = cell concentration, <br/>Y = yield coeficient.
+<br/>S = substrate concentartion, <br/>X = cell concentration (optical density), <br/>Y = biomass yield coeficient.
 
 
 
