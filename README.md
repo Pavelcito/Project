@@ -8,9 +8,9 @@ The bacterial growth curve is calculated using the modified Gompertz equation ([
 
 where
 <br/>e=exp(1),
-<br/><a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\mu&space;_{m}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\mu&space;_{m}" title="\mu _{m}" /></a> = the maximum specific growth rate,
+<br/><a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\mu&space;_{m}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\mu&space;_{m}" title="\mu _{m}" /></a> = maximal specific growth rate,
 <br/><a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\lambda" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\lambda" title="\lambda" /></a> = lag time,
-<br/>A = the maximal cell density (OD600) reached.
+<br/>A = maximal cell density (OD600) reached.
 
 The substrate concentration in time is calculated using the equation:
 
