@@ -1,4 +1,4 @@
-# ERC-project
+# Project
 The growth_model.py file represents the model of the growth of Pseudomonas putida lysis strain.
 The program calculates the time course of bacterial growth (growth curve) and substrate concentration based on the input values (initial substrate concentration, specific growth rate, the length lag phase, biomass yield, time of the induction and repression of the Switch module).
 
