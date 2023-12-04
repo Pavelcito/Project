@@ -1,5 +1,5 @@
 # Project
-The growth_model.py file represents the model of the growth of Pseudomonas putida lysis strain.
+The growth_model.py file represents the model of the growth of bacterial lysis strain.
 The program calculates the time course of bacterial growth (growth curve) and substrate concentration based on the input values (initial substrate concentration, specific growth rate, the length lag phase, biomass yield, time of the induction and repression of the Switch module).
 
 The bacterial growth curve is calculated using the modified Gompertz equation ([Zwietering et al., 1990](https://pubmed.ncbi.nlm.nih.gov/16348228/)):
